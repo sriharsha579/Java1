@@ -33,6 +33,7 @@ public class DataTypes {
 		String s = "Hello World";
 		String s1 = "Java";
 		String s2 = "This is my first program";
+                String s5 = "This is my first repo";
 		String s3 = "100";
 		String S4 = "12.33";
 		
